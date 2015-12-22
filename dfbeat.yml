@@ -1,0 +1,5 @@
+input:
+  period: 10
+output:
+  elasticsearch:
+    hosts: ["localhost:9200"]
